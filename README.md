@@ -3,4 +3,4 @@ During this course, among many other things, we dealed also with Thread Synchron
 
 This project simulates the spread of covid in a populatio and entries and exits of patients in a hospital with limited places, considering the different infection probability between vaccinated and non-vaccinated people.
 
-I apologize with those who don't understand Italian, but my professor unfortunately wanted me to code in Italian (bad thing!).
+I apologize to those who don't understand Italian, but my professor unfortunately wanted me to code in Italian (bad thing!).
